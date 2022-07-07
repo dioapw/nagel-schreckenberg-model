@@ -1,5 +1,6 @@
 <!-- Add banner here -->
-![Banner](https://github.com/dioapw/nagel-schreckenberg-model/edit/main/header.png)
+![Banner](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/header.png)
+
 
 # The Nagel-Schrekenberg Traffic Model
 
@@ -66,4 +67,4 @@ Or you can use Binder
 
 <!-- Add the footer here -->
 
-![Footer](https://github.com/dioapw/nagel-schreckenberg-model/edit/main/footer.png)
+![Footer](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/footer.png)
