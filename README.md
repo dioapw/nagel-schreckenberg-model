@@ -28,7 +28,6 @@ After you have written about your project, it is a good idea to have a demo/prev
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Footer](#footer)
 
@@ -41,10 +40,11 @@ To use this project, first clone the repo on your device using the command below
 
 ```git clone https://github.com/dioapw/nagel-schreckenberg-model.git```
 
-# Usage
-[(Back to top)](#table-of-contents)
+```pip install -r requirements.txt```
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dioapw/nagel-schreckenberg-model.git/main?urlpath=https%3A%2F%2Fgithub.com%2Fdioapw%2Fnagel-schreckenberg-model%2Fblob%2Fmain%2FNagel-Schreckenberg%2520model.ipynb)
+Or you can use Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dioapw/nagel-schreckenberg-model/HEAD)
 
 # License
 [(Back to top)](#table-of-contents)
