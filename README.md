@@ -11,6 +11,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 ![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+[![GitHub Super-Linter](https://github.com/dioapw/nagel-schreckenberg-model/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 <!-- Describe your project in brief -->
 
