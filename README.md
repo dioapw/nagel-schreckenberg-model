@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/header.png)
+![Banner](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/header_git.png)
 
 
 # The Nagel-Schrekenberg Traffic Model
