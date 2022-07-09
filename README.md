@@ -1,17 +1,43 @@
 <!-- Add banner here -->
-![Banner](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/header_git.png)
 
+![Banner](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/header_git.png)
 
 # The Nagel-Schrekenberg Traffic Model
 
 <!-- Add buttons here -->
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+![GitHub](https://img.shields.io/github/last-commit/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/contributors/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/commit-activity/y/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/license/dioapw/nagel-schreckenberg-model)
+
+![GitHub](https://img.shields.io/codefactor/grade/github/dioapw/nagel-schreckenberg-model/main)
+![GitHub](https://img.shields.io/github/languages/top/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/languages/count/dioapw/nagel-schreckenberg-model)
+
+![GitHub](https://img.shields.io/github/repo-size/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/languages/code-size/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/tokei/lines/github/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/directory-file-count/dioapw/nagel-schreckenberg-model)
+
+![GitHub](https://img.shields.io/github/issues/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/issues-closed/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/issues-pr/dioapw/nagel-schreckenberg-model)
+![GitHub](https://img.shields.io/github/issues-pr-closed/dioapw/nagel-schreckenberg-model)
+
 [![GitHub Super-Linter](https://github.com/dioapw/nagel-schreckenberg-model/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![Dependabot auto-approve](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml)
+[![Dependabot auto-label](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml)
+[![Dependabot auto-merge](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml)
+[![Dependency Review](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependency-review.yml)
+[![DevSkim](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/devskim.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/devskim.yml)
+[![Lint Code Base](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/super-linter.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/super-linter.yml)
+[![Pyre](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pyre.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pyre.yml)
+[![Python Package using Conda](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python-package-conda.yml)
+[![Python package](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python_env.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python_env.yml)
+[![auto-commit](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/auto_commit.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/auto_commit.yml)
+[![automerge](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/automerge.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/automerge.yml)
+[![pages-build-deployment](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pages/pages-build-deployment)
 
 <!-- Describe your project in brief -->
 
@@ -30,6 +56,7 @@ After you have written about your project, it is a good idea to have a demo/prev
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
 - [Footer](#footer)
 
@@ -48,6 +75,11 @@ Or you can use Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dioapw/nagel-schreckenberg-model/HEAD)
 
+# Usage
+[(Back to top)](#table-of-contents)
+
+This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also.
+
 # License
 [(Back to top)](#table-of-contents)
 
@@ -55,6 +87,8 @@ Or you can use Binder
 
 # Footer
 [(Back to top)](#table-of-contents)
+
+<!-- Add the footer here -->
 
 **References**
 - https://alg.manifoldapp.org/read/science-of-everyday-materials-4-4-2022/section/3bc8e64b-ec55-410c-b40b-265c93232f53
@@ -66,6 +100,10 @@ Or you can use Binder
 - https://www.lowgif.com/8f5a48839e61c7c7.html
 - PDF Tugas Pemodelan dan Simulasi - Simulasi untuk Trafic Flow - June 7, 2022 (Telkom University)
 
-<!-- Add the footer here -->
+https://img.shields.io/github/followers/dioapw?style=social
+https://img.shields.io/github/forks/dioapw/nagel-schreckenberg-model?style=social
+https://img.shields.io/github/stars/dioapw/nagel-schreckenberg-model?style=social
+https://img.shields.io/github/stars/dioapw?style=social
+https://img.shields.io/github/watchers/dioapw/nagel-schreckenberg-model?style=social
 
 ![Footer](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/footer.png)
