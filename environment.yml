@@ -1,0 +1,4 @@
+name: Python3.9TestEnv
+channels:
+  - defaults
+prefix: C:\anaconda3\envs\Python3.9TestEnv\envs\Python3.9TestEnv
