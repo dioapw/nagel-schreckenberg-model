@@ -27,7 +27,6 @@
 [![Dependabot auto-merge](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml)
 [![Dependency Review](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependency-review.yml)
 [![DevSkim](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/devskim.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/devskim.yml)
-[![Lint Code Base](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/super-linter.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/super-linter.yml)
 [![Pyre](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pyre.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pyre.yml)
 [![Python Package using Conda](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python-package-conda.yml)
 [![Python package](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python_env.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python_env.yml)
@@ -42,13 +41,32 @@ Have you ever been stuck in traffic and thought to yourself, "If other people dr
 # Demo-Preview
 <!-- Add a demo for your project -->
 
-After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
+**Traffic Jams can be Visualized using Space-Time Plots.**.
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![image](https://user-images.githubusercontent.com/55073908/178119716-3077ad87-61b1-4205-bf99-dbd13e1972eb.png)
+*Skanda Vivek's space-time diagram for the Nagel-Schrekenberg model with density 0.35 and p=0.3*
+
+**What Causes Traffic Congestion?**
+
+![image](https://user-images.githubusercontent.com/55073908/178119724-b9e4b640-1f60-4c70-9e94-812bd3636715.png)
+*Velocity vs Density for the Nagel-Schrekenberg model | Skanda Vivek*
+
+![image](https://user-images.githubusercontent.com/55073908/178119728-78b26098-b60a-49b9-ae4e-6c4cd48cb885.png)
+*Flux versus density in the Nagel-Schrekenberg model with p=0.3 | Skanda Vivek*
+
+**Simulating Traffic Jam using pyglet Library**
+
+parameters $M$ = 300, $p$ = 33, $v_{0}$ = 0, number of vehicles $N$ = 30, $v_{max}$ = 6
+![CarAnimationPygletLocal2](car_animation_pyglet_2.gif "animation_2")
+
+**Simulating Traffic Jam using Turtle Library**
+
+parameters $M$ = 100, $p$ = 0.3, $v_{0}$ = 0, $d$ = 2, number of vehicles $N$ = 20, $t_{max}$ = 1000, $v_{max}$ = 5
+![CarAnimationTurtleLocal](car_animation_turtle.gif "animation_3")
 
 # Table of contents
 
-- [Project Title](#project-title)
+- [The Nagel-Schrekenberg Traffic Model](#the-nagel-schrekenberg-traffic-model)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -59,7 +77,7 @@ After you have written about your project, it is a good idea to have a demo/prev
 # Installation
 [(Back to top)](#table-of-contents)
 
-To use this project, first clone the repo on your device using the command below:
+**To use this project, first clone the repo on your device using the command below:**
 
 ```git init```
 
@@ -67,14 +85,52 @@ To use this project, first clone the repo on your device using the command below
 
 ```pip install -r requirements.txt```
 
-Or you can use Binder
+```cd nagel-schreckenberg-model/```
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dioapw/nagel-schreckenberg-model/HEAD)
+**For Conda environment use:**
+
+Create new env using environment.yml
+
+```conda env create -f <path_to_yaml_file>```
+
+Active the env
+
+```conda activate <environment_name>```
+
+**You can use jupyter notebook or jupyter lab by using the commands:**
+
+Jupyter Notebook
+
+```jupyter notebook```
+
+Jupyter Lab
+
+```jupyter lab```
+
+**For Non-Conda environment use:**
+
+make sure you install Python version 3.9
+
+[Download Python 3.9](https://www.python.org/downloads/release/python-390/)
+
+open up a terminal or a command prompt. Once you are there, type the following command:
+
+```pip install -r requirements.txt```
+
+This installs all of the modules listed in our Python requirements file into our project environment.
+
+> It is a good practice to set a new environment before installing packages with your Python requirements file.
+
+After that you can open it with Jupyter Lab or Jupyter Notebook as described above.
+
+**Or you can use Binder**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dioapw/nagel-schreckenberg-model/main?urlpath=tree)
 
 # Usage
 [(Back to top)](#table-of-contents)
 
-This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also.
+Use this notebook as a study material, hopefully the readers can benefit from this even though I only collect from various sources.
 
 # License
 [(Back to top)](#table-of-contents)
@@ -87,10 +143,24 @@ SPDX short identifier: GPL-3.0-only
 
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
+The following are other community resources that may be helpful:
+
+- [Choosealicense.com](http://choosealicense.com/) 
+- [GNU License List](http://www.gnu.org/licenses/license-list.en.html)
+- [OSSWatch License Diff](http://oss-watch.ac.uk/apps/licdiff/)
+- [TLDRLegal](https://tldrlegal.com/)
+- [Wikipedia License List](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
+
 # Footer
 [(Back to top)](#table-of-contents)
 
 <!-- Add the footer here -->
+
+![GitHub](https://img.shields.io/github/followers/dioapw?style=social)
+![GitHub](https://img.shields.io/github/forks/dioapw/nagel-schreckenberg-model?style=social)
+![GitHub](https://img.shields.io/github/stars/dioapw/nagel-schreckenberg-model?style=social)
+![GitHub](https://img.shields.io/github/stars/dioapw?style=social)
+![GitHub](https://img.shields.io/github/watchers/dioapw/nagel-schreckenberg-model?style=social)
 
 **References**
 - https://alg.manifoldapp.org/read/science-of-everyday-materials-4-4-2022/section/3bc8e64b-ec55-410c-b40b-265c93232f53
@@ -100,12 +170,8 @@ SPDX short identifier: GPL-3.0-only
 - https://github.com/rheum/NaSchSim
 - https://www.freecodecamp.org/news/how-to-make-racing-game-using-python/
 - https://www.lowgif.com/8f5a48839e61c7c7.html
+- https://learnpython.com/blog/python-requirements-file/
 - PDF Tugas Pemodelan dan Simulasi - Simulasi untuk Trafic Flow - June 7, 2022 (Telkom University)
 
-![GitHub](https://img.shields.io/github/followers/dioapw?style=social)
-![GitHub](https://img.shields.io/github/forks/dioapw/nagel-schreckenberg-model?style=social)
-![GitHub](https://img.shields.io/github/stars/dioapw/nagel-schreckenberg-model?style=social)
-![GitHub](https://img.shields.io/github/stars/dioapw?style=social)
-![GitHub](https://img.shields.io/github/watchers/dioapw/nagel-schreckenberg-model?style=social)
-
-![Footer](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/footer.png)
+![Trafficurl](https://alg.manifoldapp.org/api/proxy/ingestion_sources/c40c5285-d279-4085-ac37-fc4eeb9c4b62)
+*Simulation of the Nagel-Schrekenberg traffic model at density 0.35 and p=0.3. Colors represent vehicle speed | Vivek Skanda*
