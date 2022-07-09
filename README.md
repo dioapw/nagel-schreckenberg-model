@@ -89,11 +89,11 @@ parameters $M$ = 100, $p$ = 0.3, $v_{0}$ = 0, $d$ = 2, number of vehicles $N$ = 
 
 **For Conda environment use:**
 
-Create new env using environment.yml
+Create new environment using environment.yml
 
-```conda env create -f <path_to_yaml_file>```
+```conda environment create -f <path_to_yaml_file>```
 
-Active the env
+Active the environment
 
 ```conda activate <environment_name>```
 
@@ -109,11 +109,11 @@ Jupyter Lab
 
 **For Non-Conda environment use:**
 
-make sure you install Python version 3.9
+Make sure you install Python version 3.9
 
 [Download Python 3.9](https://www.python.org/downloads/release/python-390/)
 
-open up a terminal or a command prompt. Once you are there, type the following command:
+Open up a terminal or a command prompt. Once you are there, type the following command:
 
 ```pip install -r requirements.txt```
 
@@ -136,7 +136,8 @@ Use this notebook as a study material, hopefully the readers can benefit from th
 [(Back to top)](#table-of-contents)
 
 License Copyright: Copyright © 2007 Free Software Foundation, Inc.
-License License: "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed." (www.gnu.org/licenses/gpl-3.0.en.html).
+License License: "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed." 
+(www.gnu.org/licenses/gpl-3.0.en.html).
 License Contact: Free Software Foundation (fsf.org).
 
 SPDX short identifier: GPL-3.0-only
