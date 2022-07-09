@@ -10,21 +10,17 @@
 ![GitHub](https://img.shields.io/github/contributors/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/commit-activity/y/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/license/dioapw/nagel-schreckenberg-model)
-
 ![GitHub](https://img.shields.io/codefactor/grade/github/dioapw/nagel-schreckenberg-model/main)
 ![GitHub](https://img.shields.io/github/languages/top/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/languages/count/dioapw/nagel-schreckenberg-model)
-
 ![GitHub](https://img.shields.io/github/repo-size/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/languages/code-size/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/tokei/lines/github/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/directory-file-count/dioapw/nagel-schreckenberg-model)
-
 ![GitHub](https://img.shields.io/github/issues/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/issues-closed/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/issues-pr/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/issues-pr-closed/dioapw/nagel-schreckenberg-model)
-
 [![GitHub Super-Linter](https://github.com/dioapw/nagel-schreckenberg-model/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Dependabot auto-approve](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml)
 [![Dependabot auto-label](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml)
