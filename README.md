@@ -79,6 +79,12 @@ This is optional and it is used to give the user info on how to use the project 
 # License
 [(Back to top)](#table-of-contents)
 
+License Copyright: Copyright © 2007 Free Software Foundation, Inc.
+License License: "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed." (www.gnu.org/licenses/gpl-3.0.en.html).
+License Contact: Free Software Foundation (fsf.org).
+
+SPDX short identifier: GPL-3.0-only
+
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
 # Footer
@@ -96,10 +102,10 @@ This is optional and it is used to give the user info on how to use the project 
 - https://www.lowgif.com/8f5a48839e61c7c7.html
 - PDF Tugas Pemodelan dan Simulasi - Simulasi untuk Trafic Flow - June 7, 2022 (Telkom University)
 
-https://img.shields.io/github/followers/dioapw?style=social
-https://img.shields.io/github/forks/dioapw/nagel-schreckenberg-model?style=social
-https://img.shields.io/github/stars/dioapw/nagel-schreckenberg-model?style=social
-https://img.shields.io/github/stars/dioapw?style=social
-https://img.shields.io/github/watchers/dioapw/nagel-schreckenberg-model?style=social
+![GitHub](https://img.shields.io/github/followers/dioapw?style=social)
+![GitHub](https://img.shields.io/github/forks/dioapw/nagel-schreckenberg-model?style=social)
+![GitHub](https://img.shields.io/github/stars/dioapw/nagel-schreckenberg-model?style=social)
+![GitHub](https://img.shields.io/github/stars/dioapw?style=social)
+![GitHub](https://img.shields.io/github/watchers/dioapw/nagel-schreckenberg-model?style=social)
 
 ![Footer](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/footer.png)
