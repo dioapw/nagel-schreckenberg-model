@@ -21,8 +21,6 @@ Markdown==3.3.4
 MarkupSafe==2.0.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.2
-mkl-random==1.2.2
-mkl-service==2.4.0
 mobilechelonian==0.5
 mpmath==1.2.1
 nbclassic==0.3.5
