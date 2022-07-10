@@ -14,7 +14,7 @@ jupyter-console==6.4.4
 jupyter-core==4.9.2
 jupyter-server==1.17.0
 jupyterlab==3.3.2
-jupyterlab-pygments==0.1.2
+jupyterlab-pygments==0.2.2
 jupyterlab-server==2.10.3
 jupyterlab-widgets==1.1.1
 Markdown==3.3.7
