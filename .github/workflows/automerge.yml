@@ -32,10 +32,10 @@ jobs:
         uses: "pascalgn/automerge-action@v0.15.3"
         env:
           GITHUB_TOKEN: "${{ secrets.WORKFLOW_TOKEN }}"
-          MERGE_LABELS: "automerge,ready"
-          MERGE_REMOVE_LABELS: "automerge,ready,updated,ok"
+          MERGE_LABELS: "automerge"
+          MERGE_REMOVE_LABELS: "automerge"
           MERGE_METHOD: "merge"
-          MERGE_METHOD_LABELS: "automerge=merge,ready=merge,autosquash=squash,autorebose=rebose"
+          MERGE_METHOD_LABELS: "automerge=merge,autosquash=squash,autorebose=rebose"
           MERGE_METHOD_LABEL_REQUIRED: true
           MERGE_COMMIT_MESSAGE: "pull-request-title-and-description"
           MERGE_FORKS: "false"
@@ -45,7 +45,7 @@ jobs:
           MERGE_DELETE_BRANCH: true
           MERGE_DELETE_BRANCH_FILTER: ""
           MERGE_ERROR_FAIL: true
-          UPDATE_LABELS: "updated,ok"
+          UPDATE_LABELS: "updated"
           UPDATE_METHOD: "merge"
           UPDATE_RETRIES: "6"
           UPDATE_RETRY_SLEEP: "10000"
