@@ -36,4 +36,4 @@ jobs:
           MERGE_REQUIRED_APPROVALS: "0"
           UPDATE_LABELS: "updated,ok"
           UPDATE_METHOD: "merge"
-          PULL_REQUEST: "1234"
+#           PULL_REQUEST: "1234"
