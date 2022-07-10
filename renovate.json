@@ -5,7 +5,7 @@
   ],
   "packageRules":[
      {
-       "updateTypes:["minor","patch"],
+       "updateTypes":["minor","patch"],
        "automerge":true
      }
    ]
