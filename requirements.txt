@@ -9,7 +9,7 @@ isort==5.9.3
 itsdangerous==2.0.1
 jedi==0.18.1
 jupyter==1.0.0
-jupyter-client==6.1.12
+jupyter-client==7.3.4
 jupyter-console==6.4.0
 jupyter-core==4.9.2
 jupyter-server==1.17.0
@@ -29,7 +29,7 @@ nbconvert==6.5.0
 nbformat==5.3.0
 notebook==6.4.12
 numpy==1.22.3
-numpydoc==1.2
+numpydoc==1.4.0
 packaging==21.3
 pandas==1.4.2
 pandocfilters==1.5.0
