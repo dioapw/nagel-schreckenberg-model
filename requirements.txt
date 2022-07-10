@@ -20,7 +20,7 @@ jupyterlab-widgets==1.1.1
 Markdown==3.3.7
 MarkupSafe==2.1.1
 matplotlib==3.5.2
-matplotlib-inline==0.1.2
+matplotlib-inline==0.1.3
 mobilechelonian==0.5
 mpmath==1.2.1
 nbclassic==0.4.2
