@@ -1,4 +1,4 @@
-flake8==3.9.2
+flake8==4.0.1
 importlib-metadata==4.11.3
 ipykernel==6.9.1
 ipython==8.2.0
@@ -9,7 +9,7 @@ isort==5.9.3
 itsdangerous==2.0.1
 jedi==0.18.1
 jupyter==1.0.0
-jupyter-client==6.1.12
+jupyter-client==7.3.4
 jupyter-console==6.4.0
 jupyter-core==4.9.2
 jupyter-server==1.17.0
@@ -34,7 +34,7 @@ packaging==21.3
 pandas==1.4.2
 pandocfilters==1.5.0
 pep8==1.7.1
-pip==21.2.4
+pip==22.1.2
 pycodestyle==2.7.0
 pyflakes==2.3.1
 pyglet==1.5.16
