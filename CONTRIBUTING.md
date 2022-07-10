@@ -2,7 +2,7 @@
 
 #### **Did you find a bug?**
 
-* **Open up a GitHub issue if the bug is a security vulnerability or any other bug
+* **Open up a GitHub issue if the bug is a security vulnerability or any other bug**
 
 * **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/dioapw/nagel-schreckenberg-model/issues).
 
