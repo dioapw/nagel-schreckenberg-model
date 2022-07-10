@@ -36,5 +36,5 @@ pandocfilters==1.5.0
 pep8==1.7.1
 pip==22.1.2
 pycodestyle==2.8.0
-pyflakes==2.3.1
+pyflakes==2.4.0
 pyglet==1.5.26
