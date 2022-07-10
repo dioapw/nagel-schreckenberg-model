@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/dioapw/nagel-schreckenberg-model/blob/main/header_git.png)
 
-# The Nagel-Schrekenberg Traffic Model
+# :car: The Nagel-Schrekenberg Traffic Model
 
 <!-- Add buttons here -->
 
@@ -38,7 +38,7 @@
 
 Have you ever been stuck in traffic and thought to yourself, "If other people drove better, I wouldn't be here?" Kai Nagel and Michael Schreckenberg, two German physicists, made a fundamental breakthrough in understanding and modeling the emergence of traffic jams. As it turns out, traffic jams are not random occurrences; rather, they are highly predictable.
 
-# Demo-Preview
+# :chart_with_upwards_trend: Demo-Preview
 <!-- Add a demo for your project -->
 
 **Traffic Jams can be Visualized using Space-Time Plots.**.
@@ -64,7 +64,7 @@ parameters $M$ = 300, $p$ = 33, $v_{0}$ = 0, number of vehicles $N$ = 30, $v_{ma
 parameters $M$ = 100, $p$ = 0.3, $v_{0}$ = 0, $d$ = 2, number of vehicles $N$ = 20, $t_{max}$ = 1000, $v_{max}$ = 5
 ![CarAnimationTurtleLocal](car_animation_turtle.gif "animation_3")
 
-# Table of contents
+# :pushpin: Table of contents
 
 - [The Nagel-Schrekenberg Traffic Model](#the-nagel-schrekenberg-traffic-model)
 - [Demo-Preview](#demo-preview)
@@ -74,7 +74,7 @@ parameters $M$ = 100, $p$ = 0.3, $v_{0}$ = 0, $d$ = 2, number of vehicles $N$ = 
 - [License](#license)
 - [Footer](#footer)
 
-# Installation
+# :package: Installation
 [(Back to top)](#table-of-contents)
 
 **To use this project, first clone the repo on your device using the command below:**
@@ -127,12 +127,12 @@ After that you can open it with Jupyter Lab or Jupyter Notebook as described abo
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dioapw/nagel-schreckenberg-model/main?urlpath=tree)
 
-# Usage
+# :clipboard: Usage
 [(Back to top)](#table-of-contents)
 
 Use this notebook as a study material, hopefully the readers can benefit from this even though I only collect from various sources.
 
-# License
+# :scroll: License
 [(Back to top)](#table-of-contents)
 
 License Copyright: Copyright © 2007 Free Software Foundation, Inc.
@@ -152,7 +152,7 @@ The following are other community resources that may be helpful:
 - [TLDRLegal](https://tldrlegal.com/)
 - [Wikipedia License List](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
 
-# Footer
+# :paperclip: Footer
 [(Back to top)](#table-of-contents)
 
 <!-- Add the footer here -->
