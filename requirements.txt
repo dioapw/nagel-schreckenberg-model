@@ -10,7 +10,7 @@ itsdangerous==2.0.1
 jedi==0.18.1
 jupyter==1.0.0
 jupyter-client==7.3.4
-jupyter-console==6.4.0
+jupyter-console==6.4.4
 jupyter-core==4.9.2
 jupyter-server==1.17.0
 jupyterlab==3.3.2
