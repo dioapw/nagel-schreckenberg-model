@@ -17,7 +17,7 @@ jupyterlab==3.3.2
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.10.3
 jupyterlab-widgets==1.0.0
-Markdown==3.3.4
+Markdown==3.3.7
 MarkupSafe==2.0.1
 matplotlib==3.5.2
 matplotlib-inline==0.1.2
