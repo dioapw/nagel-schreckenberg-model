@@ -6,11 +6,11 @@
 
 <!-- Add buttons here -->
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/16e71a339b32479c9cd5f7130f996a2f)](https://www.codacy.com/gh/dioapw/nagel-schreckenberg-model/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dioapw/nagel-schreckenberg-model&amp;utm_campaign=Badge_Grade)
 ![GitHub](https://img.shields.io/github/last-commit/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/contributors/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/commit-activity/y/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/license/dioapw/nagel-schreckenberg-model)
-![GitHub](https://img.shields.io/codefactor/grade/github/dioapw/nagel-schreckenberg-model/main)
 ![GitHub](https://img.shields.io/github/languages/top/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/languages/count/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/repo-size/dioapw/nagel-schreckenberg-model)
@@ -24,15 +24,17 @@
 [![GitHub Super-Linter](https://github.com/dioapw/nagel-schreckenberg-model/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Dependabot auto-approve](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml)
 [![Dependabot auto-label](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml)
-[![Dependabot auto-merge](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml)
 [![Dependency Review](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependency-review.yml)
 [![DevSkim](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/devskim.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/devskim.yml)
 [![Pyre](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pyre.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pyre.yml)
 [![Python Package using Conda](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python-package-conda.yml)
 [![Python package](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python_env.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/python_env.yml)
-[![auto-commit](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/auto_commit.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/auto_commit.yml)
-[![automerge](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/automerge.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/automerge.yml)
 [![pages-build-deployment](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/pages/pages-build-deployment)
+
+<!-- [![auto-commit](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/auto_commit.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/auto_commit.yml)
+[![automerge](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/automerge.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/automerge.yml)
+[![Dependabot auto-merge](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-merge.yml) 
+![GitHub](https://img.shields.io/codefactor/grade/github/dioapw/nagel-schreckenberg-model/main) -->
 
 <!-- Describe your project in brief -->
 
