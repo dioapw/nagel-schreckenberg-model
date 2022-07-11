@@ -29,7 +29,7 @@ jobs:
           ENABLE_GITHUB_API_PREVIEW: true
           MERGE_METHOD: MERGE
           MAXIMUM_RETRIES: 3
-          ENABLED_FOR_MANUAL_CHANGES: 'true'
+#           ENABLED_FOR_MANUAL_CHANGES: 'true'
       - name: Merge me! deepsourcebot
         uses: ridedott/merge-me-action@v2
         with:
