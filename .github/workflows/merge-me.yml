@@ -1,0 +1,59 @@
+name: Merge me!
+
+on:
+  pull_request_target:
+    branches:
+      main
+    types:
+      - labeled
+      - unlabeled
+      - synchronize
+      - opened
+      - edited
+      - ready_for_review
+      - reopened
+      - unlocked      
+  check_suite:
+    types:
+      - completed
+jobs:
+  merge-me:
+    name: Merge me!
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge me! ImgBotApp
+        uses: ridedott/merge-me-action@v2
+        with:
+          GITHUB_LOGIN: ImgBotApp
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+          ENABLE_GITHUB_API_PREVIEW: true
+          MERGE_METHOD: MERGE
+          MAXIMUM_RETRIES: 3
+          ENABLED_FOR_MANUAL_CHANGES: 'true'
+      - name: Merge me! deepsourcebot
+        uses: ridedott/merge-me-action@v2
+        with:
+          GITHUB_LOGIN: deepsourcebot
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+          ENABLE_GITHUB_API_PREVIEW: true
+          MERGE_METHOD: MERGE
+          MAXIMUM_RETRIES: 3
+          ENABLED_FOR_MANUAL_CHANGES: 'true'
+      - name: Merge me! renovatebot
+        uses: ridedott/merge-me-action@v2
+        with:
+          GITHUB_LOGIN: renovatebot
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+          ENABLE_GITHUB_API_PREVIEW: true
+          MERGE_METHOD: MERGE
+          MAXIMUM_RETRIES: 3
+          ENABLED_FOR_MANUAL_CHANGES: 'true'
+      - name: Merge me! dependabot
+        uses: ridedott/merge-me-action@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+          PRESET: DEPENDABOT_PATCH
+          ENABLE_GITHUB_API_PREVIEW: true
+          MERGE_METHOD: MERGE
+          MAXIMUM_RETRIES: 3
+          ENABLED_FOR_MANUAL_CHANGES: 'true'
