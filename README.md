@@ -21,6 +21,7 @@
 ![GitHub](https://img.shields.io/github/issues-closed/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/issues-pr/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/issues-pr-closed/dioapw/nagel-schreckenberg-model)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d49d4b7d79e84182864269a684d39b3c)](https://app.codacy.com/gh/dioapw/nagel-schreckenberg-model?utm_source=github.com&utm_medium=referral&utm_content=dioapw/nagel-schreckenberg-model&utm_campaign=Badge_Grade_Settings)
 [![GitHub Super-Linter](https://github.com/dioapw/nagel-schreckenberg-model/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Dependabot auto-approve](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-approve.yml)
 [![Dependabot auto-label](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml/badge.svg)](https://github.com/dioapw/nagel-schreckenberg-model/actions/workflows/dependabot-auto-label.yml)
