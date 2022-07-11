@@ -8,6 +8,8 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/dioapw/nagel-schreckenberg-model/badge)](https://www.codefactor.io/repository/github/dioapw/nagel-schreckenberg-model)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/16e71a339b32479c9cd5f7130f996a2f)](https://www.codacy.com/gh/dioapw/nagel-schreckenberg-model/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dioapw/nagel-schreckenberg-model&amp;utm_campaign=Badge_Grade)
+[![DeepSource](https://deepsource.io/gh/dioapw/nagel-schreckenberg-model.svg/?label=active+issues&show_trend=true&token=zI74-RbZFuWFXEKaM4TvUrjF)](https://deepsource.io/gh/dioapw/nagel-schreckenberg-model/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/dioapw/nagel-schreckenberg-model.svg/?label=resolved+issues&show_trend=true&token=zI74-RbZFuWFXEKaM4TvUrjF)](https://deepsource.io/gh/dioapw/nagel-schreckenberg-model/?ref=repository-badge)
 ![GitHub](https://img.shields.io/github/last-commit/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/contributors/dioapw/nagel-schreckenberg-model)
 ![GitHub](https://img.shields.io/github/commit-activity/y/dioapw/nagel-schreckenberg-model)
