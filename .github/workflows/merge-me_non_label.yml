@@ -12,7 +12,7 @@ on:
       - edited
       - ready_for_review
       - reopened
-      - unlocked      
+      - unlocked
   check_suite:
     types:
       - completed
